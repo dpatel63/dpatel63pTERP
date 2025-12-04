@@ -15,19 +15,19 @@
     </p>
 
     <p><strong>Render Location:</strong> 
-        <a href="YOUR_RENDER_URL">YOUR_RENDER_URL</a>
+        <a href="https://dpatel63pterp.onrender.com/">https://dpatel63pterp.onrender.com/</a>
     </p>
 
     <p><strong>Clearing Database Movies:</strong> 
-        <a href="YOUR_RENDER_URL/clear">YOUR_RENDER_URL/clearCollection</a>
+        <a href="https://dpatel63pterp.onrender.com/clearCollections">https://dpatel63pterp.onrender.com/clearCollection</a>
     </p>
 
     <p><strong>Inserting Movies:</strong> 
-        <a href="YOUR_RENDER_URL/insert">YOUR_RENDER_URL/insertMovies</a>
+        <a href="https://dpatel63pterp.onrender.com/insertMovies">https://dpatel63pterp.onrender.com/insertMovies</a>
     </p>
 
     <p><strong>List Movies:</strong> 
-        <a href="YOUR_RENDER_URL/list">YOUR_RENDER_URL/listMovies</a>
+        <a href="https://dpatel63pterp.onrender.com/listMovies">https://dpatel63pterp.onrender.com/listMovies</a>
     </p>
 
 </body>
