@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Deployment Information</title>
+</head>
+<body>
+    <h1>Deployment Information</h1>
+
+    <p><strong>Name:</strong> Dhruvi Patel</p>
+
+    <p><strong>GitHub Location:</strong> 
+        <a href="https://github.com/dpatel63/dpatel63pTERP/">
+            https://github.com/dpatel63/dpatel63pTERP/
+        </a>
+    </p>
+
+    <p><strong>Render Location:</strong> 
+        <a href="YOUR_RENDER_URL">YOUR_RENDER_URL</a>
+    </p>
+
+    <p><strong>Clearing Database Movies:</strong> 
+        <a href="YOUR_RENDER_URL/clear">YOUR_RENDER_URL/clearCollection</a>
+    </p>
+
+    <p><strong>Inserting Movies:</strong> 
+        <a href="YOUR_RENDER_URL/insert">YOUR_RENDER_URL/insertMovies</a>
+    </p>
+
+    <p><strong>List Movies:</strong> 
+        <a href="YOUR_RENDER_URL/list">YOUR_RENDER_URL/listMovies</a>
+    </p>
+
+</body>
+</html>
